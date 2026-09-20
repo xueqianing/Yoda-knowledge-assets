@@ -1,0 +1,17 @@
+{
+  "runtimeVersion": "v1",
+  "transformers": "4.2.0",
+  "onnxruntime": "1.24.3",
+  "platforms": {
+    "darwin-arm64": {
+      "file": "darwin-arm64.tar.gz",
+      "bytes": 11860480,
+      "sha256": "398fc4189d079228d337c1d89d3f99ccd3e33baec750c296d16baa852bb7a987"
+    },
+    "win32-x64": {
+      "file": "win32-x64.tar.gz",
+      "bytes": 28705785,
+      "sha256": "e7309b01d08041a245114fa007a30cfaa452d83dc35d6e5e519336db4b2c24d7"
+    }
+  }
+}
